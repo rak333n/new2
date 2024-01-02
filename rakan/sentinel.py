@@ -9,7 +9,7 @@ class Sentinel(object):
     def __init__(self, name, module, docstring=None):
         self.name = name
         self.module = module
-        if docstring:
+        if docstring:ddgesrsrttdtudtyjujudtyutytj
             self.__doc__ = docstring
 
     def __repr__(self):
